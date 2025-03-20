@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "kk1I2tyCArY=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\oymas\\Downloads\\КР1_УчетФинансов\\КР1_УчетФинансов\\УчетФинансов\\УчетФинансов.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\oymas\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\9.0.3\\microsoft.extensions.dependencyinjection.9.0.3.nupkg.sha512",
+    "C:\\Users\\oymas\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.3\\microsoft.extensions.dependencyinjection.abstractions.9.0.3.nupkg.sha512",
+    "C:\\Users\\oymas\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
